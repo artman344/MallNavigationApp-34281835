@@ -1,0 +1,17 @@
+﻿<?xml version = "1.0" encoding="utf-8"?>
+<menu xmlns:android = "http://schemas.android.com/apk/res/android">
+  <item
+     android:id = "@+id/file_settings"
+     android:title = "Find Nearby Mall">
+
+    <item
+       android:id = "@+id/new_game1"
+       android:title = "Navigate to Mall"/>
+    <item
+       android:id = "@+id/help"
+       android:title = "Review our App" />
+    <item
+       android:id = "@+id/about_app"
+       android:title = "About app"/>
+  </item>
+</menu>
